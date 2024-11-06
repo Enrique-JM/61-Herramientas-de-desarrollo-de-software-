@@ -24,3 +24,4 @@ if st.checkbox("Mostrar Gráfico de Líneas de Precio Promedio por Año"):
 # Visualización rápida de los datos (opcional)
 st.write("Vista previa del conjunto de datos:")
 st.write(data.head())
+
